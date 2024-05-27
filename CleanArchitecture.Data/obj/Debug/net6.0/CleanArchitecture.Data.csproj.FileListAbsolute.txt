@@ -1,0 +1,17 @@
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.deps.json
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.runtimeconfig.json
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.dll
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Data.pdb
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.AssemblyReference.cache
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfoInputs.cache
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.AssemblyInfo.cs
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArc.BB88D113.Up2Date
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.dll
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Data.dll
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
