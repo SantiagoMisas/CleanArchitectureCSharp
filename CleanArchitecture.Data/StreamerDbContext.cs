@@ -1,6 +1,7 @@
 ﻿
 using CleanArchitecture.Domain;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
 namespace CleanArchitecture.Data
 {
@@ -12,7 +13,11 @@ namespace CleanArchitecture.Data
                 @"Data Source=localhost\sqlexpress; 
                 Initial Catalog=Streamer;
                 Integrated Security=True;"
-                );
+                ).LogTo(
+                Console.WriteLine, 
+                new[] { DbLoggerCategory.Database.Command.Name },
+                LogLevel.Information)
+                .EnableSensitiveDataLogging();
         }
 
         public DbSet<Streamer>? Streamers { get; set; }

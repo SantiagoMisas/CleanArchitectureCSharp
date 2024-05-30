@@ -15,3 +15,4 @@ C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.
 C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.pdb
 C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.genruntimeconfig.cache
 C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Data.dll
+C:\Users\Santiago Misas\Documents\Developer\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Data.sourcelink.json
