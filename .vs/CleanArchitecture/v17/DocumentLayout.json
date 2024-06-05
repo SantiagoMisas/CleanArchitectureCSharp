@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C385AAD-3714-4771-A329-BCC5887BE5CB}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|c:\\users\\santiago misas\\documents\\developer\\cleanarchitecture\\cleanarchitecture.data\\streamerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C385AAD-3714-4771-A329-BCC5887BE5CB}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|solutionrelative:cleanarchitecture.data\\streamerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE66E1-4191-40DC-9C22-31FB2EC291E0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\santiago misas\\documents\\developer\\cleanarchitecture\\cleanarchitecture.domain\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE66E1-4191-40DC-9C22-31FB2EC291E0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2DE66E1-4191-40DC-9C22-31FB2EC291E0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\santiago misas\\documents\\developer\\cleanarchitecture\\cleanarchitecture.domain\\streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DE66E1-4191-40DC-9C22-31FB2EC291E0}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A99206E8-48CA-405A-A425-57A65906B24F}|CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj|c:\\users\\santiago misas\\documents\\developer\\cleanarchitecture\\cleanarchitecture.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A99206E8-48CA-405A-A425-57A65906B24F}|CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj|solutionrelative:cleanarchitecture.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +47,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StreamerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Data\\StreamerDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Data\\StreamerDbContext.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Data\\StreamerDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Data\\StreamerDbContext.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:35:20.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Streamer.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Domain\\Streamer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Streamer.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Domain\\Streamer.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Streamer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:25:09.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Domain\\Video.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Video.cs",
+              "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.Domain\\Video.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T04:16:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Users\\Santiago Misas\\Documents\\Developer\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\Program.cs",
               "RelativeToolTip": "CleanArchitecture.ConsoleApp\\Program.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAYwCIAAAApAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowBUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T15:44:28.279Z",
               "EditorCaption": ""

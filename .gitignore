@@ -1,0 +1,77 @@
+# Ignorar archivos y directorios generados por el sistema operativo
+*.DS_Store
+Thumbs.db
+
+# Ignorar archivos y directorios generados por el entorno de desarrollo
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar directorios de paquetes y binarios
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.log
+*.lib
+*.mdb
+*.vcxproj.user
+*.csproj.user
+*.rsuser
+*.rsxproj.user
+
+# Ignorar archivos de configuración específicos de Rider
+.idea/
+
+# Ignorar archivos de configuración específicos de Visual Studio Code
+.vscode/
+
+# Ignorar archivos de configuración específicos de Visual Studio
+*.vs/
+
+# Ignorar directorios de paquetes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Ignorar archivos de bloqueo y restauración de NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignorar configuraciones y archivos temporales de desarrollo
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+
+# Ignorar archivos de configuración de usuario de MSBuild
+*.sln.docstates
+
+# Ignorar configuraciones de despliegue de Azure
+PublishProfiles/
+
+# Ignorar resultados de test
+TestResults/
+*.TestResults/
+
+# Ignorar archivos de configuración específicos de seguridad
+*.Secret.config
+*.Secret.*
+
+# Ignorar configuraciones temporales y de depuración
+tmp/
+temp/
+*.tmp
+
+# Ignorar archivos de bloqueo de paquete
+.lock.json
